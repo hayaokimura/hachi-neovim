@@ -6,8 +6,11 @@ neovim 使ったり使わなかったりしていて設定や操作方法を忘�
 
 ## ToC
 [インストール](docs/setup.md)
+
 [neovim に設定を追加する](docs/add_configuration_to_neovim.md)
+
 [package manager をいれる](docs/install_package_manager.md)
+
 markdown を書きやすくする
 - markdown のファイル名にカーソルを合わせて、なにかしたらそのファイルを作成して開いてほしい
 - なんか見出しの色が薄くて辛いのでもうちょっといい色ないかな

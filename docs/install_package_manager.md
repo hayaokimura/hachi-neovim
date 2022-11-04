@@ -35,6 +35,8 @@ return require('packer').startup(function(use)
 end)
 ```
 
+`~/.config/nvim/init.lua` に、以下の行を追加して、`:PackerCompile`, `:PackerInstall` command を打つと neovim に反映される
+
 
 
 
