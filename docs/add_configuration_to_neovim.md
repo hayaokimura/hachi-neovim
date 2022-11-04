@@ -12,10 +12,5 @@ cf. [Getting started using Lua in Neovim](https://github.com/willelz/nvim-lua-gu
 基本的には、 nvim コマンドを再起動すれば反映される。
 また、一回`.config/nvim/init.lua` を作成して、`nvim` コマンドを呼ぶと、`$MYVIMRC` にパスが代入されるので、`:e $MYVIMRC` で設定ファイルを編集できるし、`:source $MYVIMRC` とすると、neovim を閉じなくても設定が反映される。（`set number` を消して更新しても反映されなかった気がするが気のせいか？）
 
-## `set` とは
-
-## `nnoremap` とは
-
-
 
 
