@@ -104,6 +104,12 @@ nnoremap <Up>   gk
 
 cf. [s](https://thata.hatenadiary.org/entry/20100606/1275796513)
 
+### telescope を使ったとき、どのディレクトリ配下としてみなしている？
+current directory という概念が vim には存在していて、その配下を検索している。
+
+cf. [neovim.io#current-directory](https://neovim.io/doc/user/editing.html#current-directory)
+
+
 ## 資料集
 [neovim.io](https://neovim.io/)
 [Commands Index](https://neovim.io/doc/user/vimindex.html)
