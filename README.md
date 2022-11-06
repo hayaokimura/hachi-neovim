@@ -11,7 +11,6 @@ https://zenn.dev/yutakatay/articles/neovim-plugins-2022#treesitter-textobj-%26-o
 - [zk-nvim](https://github.com/mickael-menu/zk-nvim) がメモ取るのにめっちゃ使えそう
 - markdown のファイル名にカーソルを合わせて、なにかしたらそのファイルを作成して開いてほしい
 
-
 ## ToC
 [インストール](docs/setup.md)
 
@@ -29,19 +28,23 @@ markdown を書きやすくする
 - telescope もうちょっといい見た目にしたい
 - git をいい感じに扱えるようにしたい
 
-- vimコマンドのヒストリーが見たいしヒストリー補完できると嬉しい
 - 下の、コマンド入れられたり、現在の状態が書いてあったりするバーってどういう名前なのか知りたい
 - というか各エリアの名前があるなら知りたい
 - `CTRL-C` で日本語入力を解除したい。
 - いい感じにファイル名を表示してほしい。色とか、ディレクトリ省略とか
 - git で管理しているリポジトリトップから表示してほしい
+- いい感じにchrome からコピーしてきたURLをタイトル入れて markdown リンク化してほしい(これは chrome の責務かもしれない)
+- ヒストリー補完できると嬉しい
+  - ddc.vim というのがどうやらあるらしい
+  - cf. [新世代の自動補完プラグイン ddc.vim](https://zenn.dev/shougo/articles/ddc-vim-beta)
 
 - config に簡単に飛びたい
   - telescope の global に飛べるやつが使えるかも？
 
-- タブをいい感じに使いたい。どういう使い方があるのかを知りたい。
-
 ## FAQ
+
+### vimコマンドのヒストリーが見たい
+`q:`と入力すると見れる。
 
 ### markdown のリンクに飛びたい
 [follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) を使うと、リンクに Enter で飛べるようになる。
