@@ -8,6 +8,9 @@ neovim 使ったり使わなかったりしていて設定や操作方法を忘�
 - textobject ってなんぞや
 https://zenn.dev/yutakatay/articles/neovim-plugins-2022#treesitter-textobj-%26-operator
 
+- [zk-nvim](https://github.com/mickael-menu/zk-nvim) がメモ取るのにめっちゃ使えそう
+- markdown のファイル名にカーソルを合わせて、なにかしたらそのファイルを作成して開いてほしい
+
 
 ## ToC
 [インストール](docs/setup.md)
@@ -18,8 +21,9 @@ https://zenn.dev/yutakatay/articles/neovim-plugins-2022#treesitter-textobj-%26-o
 
 [syntax highlight をいい感じにする](docs/syntax_highlight.md)
 
+[buffers とは？](docs/what-is-buffers.md)
+
 markdown を書きやすくする
-- markdown のファイル名にカーソルを合わせて、なにかしたらそのファイルを作成して開いてほしい
 - 入力補助してほしい
 - タグっぽいものを使えるようにしたい
 - telescope もうちょっといい見た目にしたい
@@ -29,7 +33,6 @@ markdown を書きやすくする
 - 下の、コマンド入れられたり、現在の状態が書いてあったりするバーってどういう名前なのか知りたい
 - というか各エリアの名前があるなら知りたい
 - `CTRL-C` で日本語入力を解除したい。
-- カーソルを合わせているURLをゴニョゴニョすると chrome で開いてほしい
 - いい感じにファイル名を表示してほしい。色とか、ディレクトリ省略とか
 - git で管理しているリポジトリトップから表示してほしい
 

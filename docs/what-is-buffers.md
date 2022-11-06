@@ -13,6 +13,15 @@ A tab page is a collection of windows.
 
 buffer は `active`, `hidden`, `inactive` の３つの state を持つ。
 
+## tabpage
+tab は新しいページを作成できるっぽい。
+`:tabnew` command が使える。
+`:tabc[lose]` でタブを閉じれる
+`:tabn[ext]` で次のタブ
+`:tabo[nly]` で開いてるタブ以外閉じる
+
+
+
 ## 資料
 [neovim.io#windows](https://neovim.io/doc/user/windows.html#windows)
 
