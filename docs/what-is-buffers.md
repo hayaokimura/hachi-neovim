@@ -20,6 +20,18 @@ tab は新しいページを作成できるっぽい。
 `:tabn[ext]` で次のタブ
 `:tabo[nly]` で開いてるタブ以外閉じる
 
+## window
+
+### 画面を分けたい
+水平分割 `:sp[lit]`
+垂直分割 `:vs[plit]`
+
+cf. https://neovim.io/doc/user/vimindex.html
+
+### 分けた画面を移動したい
+Window commands というくくりがあるっぽい。デフォルトの prefix は `CTRL-W`
+cf. [Window commands](https://neovim.io/doc/user/vimindex.html#CTRL-W)
+
 
 
 ## 資料

@@ -75,17 +75,6 @@ cf. https://blog.pepo-le.com/vim-normalmode-imeoff/#:~:text=%E3%82%BF%E3%83%BC%E
 ```
 
 cf. [Vimでクリップボードを使う](https://psipsina.jp/note/vim/neovim_clipboard.html)
-
-### 画面を分けたい
-水平分割 `:sp[lit]`
-垂直分割 `:vs[plit]`
-
-cf. https://neovim.io/doc/user/vimindex.html
-
-### 分けた画面を移動したい
-Window commands というくくりがあるっぽい。デフォルトの prefix は `CTRL-W`
-cf. [Window commands](https://neovim.io/doc/user/vimindex.html#CTRL-W)
-
 ### neovim 内で terminal を使いたい
 `:te[rminal]` でターミナルを開ける
 そのままではノーマルモードなので、`i`で入力できる。
