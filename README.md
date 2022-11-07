@@ -26,6 +26,7 @@ markdown を書きやすくする
 - 入力補助してほしい
 - タグっぽいものを使えるようにしたい
 - telescope もうちょっといい見た目にしたい
+- telescope 見た目もそうだけどもう少し使い勝手を良くしたい cf. [telescope.nvim の記事](https://dev.classmethod.jp/articles/nvim_telescope/)
 - git をいい感じに扱えるようにしたい
 
 - 下の、コマンド入れられたり、現在の状態が書いてあったりするバーってどういう名前なのか知りたい
