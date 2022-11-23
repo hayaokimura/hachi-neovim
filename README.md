@@ -22,10 +22,11 @@ https://zenn.dev/yutakatay/articles/neovim-plugins-2022#treesitter-textobj-%26-o
 
 [buffers とは？](docs/what-is-buffers.md)
 
-markdown を書きやすくする
+wip: [LSP を使う](docs/use-lsp.md)
 - 入力補助してほしい
+
+markdown を書きやすくする
 - タグっぽいものを使えるようにしたい
-- telescope もうちょっといい見た目にしたい
 - telescope 見た目もそうだけどもう少し使い勝手を良くしたい cf. [telescope.nvim の記事](https://dev.classmethod.jp/articles/nvim_telescope/)
 - git をいい感じに扱えるようにしたい
 
